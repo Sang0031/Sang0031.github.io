@@ -6,9 +6,14 @@ layout: home
 author_profile: true
 ---
 ---
+curiculum vitae- Mr. Dennis Kiprotich
+curiculum vitae
+---
+---
 education 
 ---
-
+Msc applied statistics - chuka university
+Bsc mathematics- chuka university
 ---
 certification
 ---
