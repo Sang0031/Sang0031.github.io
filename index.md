@@ -13,7 +13,9 @@ curiculum vitae
 education 
 ---
 Msc applied statistics - chuka university
+
 Bsc mathematics- chuka university
+
 ---
 certification
 ---
