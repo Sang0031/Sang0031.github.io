@@ -45,7 +45,7 @@ plugins:
 
 author:
   name   : "Dennis Kiprotich"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/passport.png"
   bio    : " teach |train | research| data science"
   links:
     - label: ""
